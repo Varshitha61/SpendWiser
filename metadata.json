@@ -1,0 +1,5 @@
+{
+  "name": "SpendWiser",
+  "description": "A production-ready expense tracker with AI-powered receipt scanning, multi-wallet support, and financial insights.",
+  "requestFramePermissions": []
+}
